@@ -4,6 +4,8 @@
 - Java
 - HTML/CSS/JS (Ionic, Angular or Typescript (Javascript))
 - MySQL
+- React (Javascitpt / Typescript)
+- Node.js and Server.js
 
 💻 Jobs I might be interest after graduation:
     - Software Engineering
