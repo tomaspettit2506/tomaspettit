@@ -11,7 +11,7 @@
 
 📚Final Year Project
 
-**Title:** Guardians of the Chess Grandmaster: (How to become the member of the CHess Grandmaster?)
+**Title:** Guardians of the Chess Grandmaster: (How to become the member of the Chess Grandmaster?)
 
 
 <!---
